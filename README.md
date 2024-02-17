@@ -3,12 +3,12 @@
 TrendingMoviesApp is a Kotlin-based Android application built with Jetpack Compose, designed to showcase trending movies information using The Movie Database (TMDb) API. The app embraces modern Android development practices and leverages several key dependencies to achieve its functionality.
 
 # Features
-View trending movies with details such as title, overview, release date, genres, and more.
-Seamlessly navigate between different screens to explore movie details.
-Utilizes Retrofit for handling REST API requests and responses, with data sourced from The Movie Database.
-Implements Coil for efficient image loading and rendering.
-Employs Dagger Hilt for dependency injection, ensuring a modular and maintainable codebase.
-Integrates with Navigation component to manage navigation between screens in a structured manner.
+- View trending movies with details such as title, overview, release date, genres, and more.
+- Seamlessly navigate between different screens to explore movie details.
+- Utilizes Retrofit for handling REST API requests and responses, with data sourced from The Movie Database.
+- Implements Coil for efficient image loading and rendering.
+- Employs Dagger Hilt for dependency injection, ensuring a modular and maintainable codebase.
+- Integrates with Navigation component to manage navigation between screens in a structured manner.
 
 # Dependencies
 - Jetpack Compose: UI toolkit for building native Android UIs.
