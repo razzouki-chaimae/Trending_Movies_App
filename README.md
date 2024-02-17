@@ -11,11 +11,11 @@ Employs Dagger Hilt for dependency injection, ensuring a modular and maintainabl
 Integrates with Navigation component to manage navigation between screens in a structured manner.
 
 # Dependencies
-Jetpack Compose: UI toolkit for building native Android UIs.
-Lifecycle Runtime Compose: Provides lifecycle-aware components for Jetpack Compose.
-Arrow Stack: Functional programming library for Kotlin, used for implementing Either.
-Retrofit: Type-safe HTTP client for Android and Java.
-Coil Compose: Image loading library for Android.
-Dagger Hilt: Dependency injection library for Android.
-Navigation Compose: Navigation component for Jetpack Compose.
-The Movie Database (TMDb) API: Provides movie-related data for the application.
+- Jetpack Compose: UI toolkit for building native Android UIs.
+- Lifecycle Runtime Compose: Provides lifecycle-aware components for Jetpack Compose.
+- Arrow Stack: Functional programming library for Kotlin, used for implementing Either.
+- Retrofit: Type-safe HTTP client for Android and Java.
+- Coil Compose: Image loading library for Android.
+- Dagger Hilt: Dependency injection library for Android.
+- Navigation Compose: Navigation component for Jetpack Compose.
+- The Movie Database (TMDb) API: Provides movie-related data for the application.
